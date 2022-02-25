@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before Her Majesty the Queen Dowager in her chappel at Sommerset House, upon the second Sunday after Easter, April 10, 1687 / by F. James Ayray ... chaplain and preacher in ordinary to His Excellency the Spanish Ambassador.</title>
+            <author>Ayray, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69500</idno>
+            <idno type="STC">Wing A4297B</idno>
+            <idno type="STC">ESTC R208680</idno>
+            <idno type="EEBO-CITATION">26642745</idno>
+            <idno type="OCLC">ocm 26642745</idno>
+            <idno type="VID">29799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1734:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before Her Majesty the Queen Dowager in her chappel at Sommerset House, upon the second Sunday after Easter, April 10, 1687 / by F. James Ayray ... chaplain and preacher in ordinary to His Excellency the Spanish Ambassador.</title>
+                  <author>Ayray, James.</author>
+               </titleStmt>
+               <extent>[2], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John and Thomas Lane ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by Her Majesties Special Command."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29799:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before Her MAJESTY THE Queen Dowager, In Her Chappel at <hi>Sommerſet Houſe,</hi> Upon the Second <hi>Sunday</hi> after <hi>Eaſter, April</hi> 10. 1687.</p>
+            <p>By F. <hi>James Ayray,</hi> of the Holy Order of St. <hi>Francis,</hi> Chap<g ref="char:EOLhyphen"/>lain and Preacher in Ordinary to His Excellency the <hi>Spaniſh</hi> Ambaſſador.</p>
+            <p>
+               <hi>Publiſhed by Her Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John</hi> and <hi>Thomas Lane,</hi> and are to be Sold at the Sign of the <hi>Golden-Anchor,</hi> the Corner Shop of <hi>Wild-Street,</hi> next <hi>Duke-Street.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:29799:2"/>
+            <pb n="1" facs="tcp:29799:2"/>
+            <head>A SERMON Preach'd before Her MAJESTY THE Q. Dowager.</head>
+            <epigraph>
+               <q>
+                  <bibl>JOAN. 10. <hi>ver.</hi> 16.</bibl>
+                  <p>Et Vocem meam audient.</p>
+                  <bibl>JOHN 10. <hi>ver.</hi> 16.</bibl>
+                  <p>
+                     <hi>And they will hear my Voice.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg> Good and Skilful <hi>Shepherd, <hi>(Moſt Sacred Majeſty)</hi>
+               </hi> a Good and Skilful <hi>Shepherd,</hi> One that <hi>loves</hi> his Sheep, and is <hi>tender</hi> of his Flock, <hi>covets</hi> and <hi>requires</hi> the healthful Hills, and fineſt Turfed Plains, for his Sheep to Feed in: He ſometimes <hi>refreſheth</hi> them
+<pb n="2" facs="tcp:29799:3"/>along the Banks of ſome pure and <hi>cryſtalline</hi> Stream; and then again, he ſeeks an <hi>Eminence</hi> for variety of Paſture, and his Flock's <hi>Diverſion:</hi> But when he finds the Sun <hi>decline,</hi> and is about to take his <hi>leave</hi> of us, upon his <hi>Shawm</hi> he ſounds a Re<g ref="char:EOLhyphen"/>treat: And if his knowing Eye diſcover any <hi>want<g ref="char:EOLhyphen"/>ing,</hi> he leaves a while his Flock alone; he <hi>climbs</hi> the Hills, he <hi>ſurveys</hi> the Plains; and finding it laid under the <hi>Protection</hi> of ſome ſhady Buſh, tranſported with Joy, he <hi>hugs</hi> himſelf in his good Fortune; he lovingly embraceth it, he takes it in his Arms, and carries it back to Fold.</p>
+            <p>Almighty <hi>God,</hi> whoſe Love is <hi>infinite,</hi> and Care <hi>unſpeakable,</hi> had led our Human Nature forth to feed in the fertile Fields of a Terreſtrial Paradiſe; whoſe Hills were always <hi>Green,</hi> ſtill <hi>flouriſhing</hi> with Original Juſtice, and the Fountains of it were the <hi>clear</hi> Parents of Immortality: But when he <hi>ſounded</hi> his Retreat, and found it gone Aſtray, he enquired, <hi>ubi es?</hi> he came in ſearch after, down from Heaven; he run through all the <hi>miſerable</hi> Valley of this <hi>wretched</hi> Life; he climb'd the Hill of the Croſs, and finding it much wearied and quite <hi>haraſſed,</hi> he rai<g ref="char:EOLhyphen"/>ſed it from Sin to Grace, and conducted it to the <hi>pleaſant</hi> Paſtures of Eternity.</p>
+            <pb n="3" facs="tcp:29799:3"/>
+            <p> He had reaſon to ſay, <hi>That his Sheep will hear his Voice;</hi> the tender Demonſtrations of Love he ſhewed them, and their own <hi>Intereſt</hi> would prompt them to it: Yet, how many be there, <hi>That will hear any Voice but that of Jeſus?</hi> St. <hi>Paul</hi> could ſay, That,
+<note place="margin">1 <hi>Cor.</hi> 14.10.</note> 
+               <hi>Nihil ſine voce,</hi> there was nothing <hi>Dumb</hi> in Nature; every thing had its <hi>Language,</hi> and could ſpeak, and ſpeak ſo <hi>inticeingly,</hi> it made the unthinking Man <hi>liſten</hi> to the Sound, and <hi>ſtoop</hi> to Lure: The World, the Fleſh, and Pleaſure, have all of them their <hi>ſeveral</hi> Dialects, and they be all <hi>delightful;</hi> and tho' the Voice of <hi>God</hi> ſurpaſs them all, yet it is no difficult thing to make <hi>miſtakes,</hi> where there is ſo great a Multitude: The <hi>inchanting</hi> Voices of the World will never want Admirers; whilſt few there be, that <hi>liſten</hi> with attention to the ſweet charming Voice of their Beloved Paſtor. The <hi>Spouſe</hi> in the <hi>Canticles</hi> was ſo <hi>taken</hi> with it, ſhe could be content to <hi>hear</hi> it always; all Sounds but his, were <hi>dull</hi> and <hi>troubleſome; Vox enim tua dulcis,</hi> His Voice was <hi>pleaſing</hi> beyond mea<g ref="char:EOLhyphen"/>ſure, and his Converſation <hi>extreamly</hi> grateful: and could we but think it ſo, we might have ſome reaſon to believe we are his <hi>Sheep,</hi> and belong to his <hi>Sheep<g ref="char:EOLhyphen"/>coat.</hi> This is what I would willingly let you ſee, after having <hi>invocated</hi> the Aſſiſtance of the Holy Ghoſt, through the <hi>Interceſſion</hi> of the ever-Bleſſed
+<pb n="4" facs="tcp:29799:4"/>Virgin <hi>Mary;</hi> whom we will Salute in the <hi>Words</hi> of the Angel, <hi>Hail, full of Grace,</hi> &amp;c.</p>
+            <p>The World,
+<note place="margin">
+                  <hi>St. Greg.</hi> 10. <hi>Mor. cap.</hi> 16.</note> as St. <hi>Gregory</hi> tells us in his Morals, laughs at the ſimple Man, <hi>deridetur juſti ſimplicitas,</hi> and its fooliſh Wiſdom, which doth weigh all things in a deceitful Balance, knows not the <hi>worth</hi> of Ver<g ref="char:EOLhyphen"/>tue, but <hi>condemns</hi> that for <hi>Silly,</hi> which the God of Heaven <hi>reputes Sublime:</hi> But thoſe who are not of the <hi>World,</hi> who <hi>ſteer</hi> their Courſe by a higher <hi>Com<g ref="char:EOLhyphen"/>paſs,</hi> who regulate their Lives according to <hi>Divine</hi> Maxims, highly prize and eſteem this Vertue of <hi>Simplicity,</hi> do approve, and even envy the <hi>Encomiums</hi> God did give it,
+<note place="margin">
+                  <hi>Job cap.</hi> 2.3.</note> when he call'd holy <hi>Job, Vir ſimplex ac timens Deum,</hi> A Man made up of <hi>Simplicity;</hi> his beſt <hi>Ingredient</hi> was the <hi>Candor</hi> of his Spirit; he did not know the wicked <hi>Malice</hi> of the <hi>cunning</hi> World, but did <hi>ſimply</hi> fear and love his God. Saint <hi>Paul</hi> would have his new <hi>Roman</hi> Converts,
+<note place="margin">
+                  <hi>Rom.</hi> 16.19.</note> 
+               <hi>Sapientes in bono, &amp; ſimplices in malo: Sapientes in bono,</hi> that is, <hi>wiſe, wary,</hi> not to fall from <hi>good:</hi> and, <hi>Simplices in malo,</hi> ſo <hi>piouſly</hi> ſimple, ſo <hi>ſimply</hi> ignorant, as not to know how to commit a thing that ſhould be <hi>Evil.</hi>
+            </p>
+            <p>The <hi>Naturaliſts,</hi> whoſe conſtant buſineſs it hath been to <hi>pry</hi> into the Inclinations of each particular
+<pb n="5" facs="tcp:29799:4"/>thing, have obſerved two notable properties in Sheep; their <hi>Simplicity,</hi> and their <hi>Obedience;</hi> they <hi>ſimply</hi> go with their Paſtor where-ever he pleaſe to lead them; and are ſo punctually <hi>obedient,</hi> that if ſtraying and out of order, a <hi>Call</hi> or a <hi>Whiſtle</hi> brings them <hi>Back:</hi> The Son of God requires theſe two Qualities in every <hi>Chriſtian</hi> that he admits to Fold; for, <hi>Vocem meam audient,</hi> They ſhall hear my <hi>Voice.</hi>
+            </p>
+            <p>Man hath ſeveral Voices, and can manifeſt his Thoughts by ſeveral ways; he can ſpeak with him<g ref="char:EOLhyphen"/>ſelf, and in his Mind can <hi>frame</hi> long and intricate Diſcourſes: his Hand and Pen will carry his <hi>Concep<g ref="char:EOLhyphen"/>tions</hi> croſs the Seas, and fetch back <hi>Inſtructions</hi> from the other ſide; and whil'ſt we talk together, our <hi>Tongues</hi> do entertain <hi>Converſe,</hi> and ſo we grow fami<g ref="char:EOLhyphen"/>liar. Almighty God much after the ſame Nature doth deal with Man; and by ſeveral ways, like to theſe, declares his Will unto him, and makes him acquainted with his Orders. His Firſt Voice is a <hi>Word Infuſed,</hi> purely interior; His Second is his <hi>Written Word;</hi> and his Third is his <hi>Word,</hi> as <hi>Preach'd</hi> and <hi>Publiſh'd:</hi> and all theſe do require of us <hi>Simplicity</hi> and <hi>Obedience; Simpli<g ref="char:EOLhyphen"/>city</hi> in <hi>Believing,</hi> and <hi>Obedience</hi> in <hi>Executing</hi> what-ever they command Us: So that the Voice of God, under theſe three Notions, of <hi>Infus'd, Written,</hi> and <hi>Publiſh'd,</hi>
+               <pb n="6" facs="tcp:29799:5"/>ſhall be the Subject of our Firſt Point; and the <hi>Sim<g ref="char:EOLhyphen"/>plicity</hi> and <hi>Obedience</hi> required in all its worthy Hea<g ref="char:EOLhyphen"/>rers, ſhall adminiſter Matter for my Second; and be the Subject of <hi>(Moſt Sacred Majeſty)</hi> your Gra<g ref="char:EOLhyphen"/>cious and Favourable Attention.</p>
+            <div n="1" type="point">
+               <head>POINT I.</head>
+               <p>THE <hi>Holy Ghoſt</hi> often makes uſe of the Firſt Way, and ſpeaks Interiourly to our Souls in a <hi>Spiritual</hi> manner: <hi>Galen,</hi> that Eminent Phyſician, ſayes, That we have Ears in our Heart, as well as on our Head; and, as with theſe we hear thoſe <hi>Articulated Words</hi> fram'd without; ſo the <hi>Silent Words</hi> of <hi>God</hi> (as Saint <hi>Auguſtine</hi> calls them) ſtrike our Ears within;
+<note place="margin">
+                     <hi>Aug.</hi> 10.9. <hi>Tra.</hi> 54.</note> 
+                  <hi>Non labiis clamat ſed in corde loquitur;</hi> He ſpeaks to us, as heretofore He did to the Antient Prophets, by Inward and Secret Inſpirations; <hi>Per inſpirationes internas. Eliphas,</hi> a Friend of <hi>Job,</hi>
+                  <note place="margin">
+                     <hi>Job</hi> 4.12.</note> declares, He felt the <hi>Effects</hi> of this Voice in his own Perſon; <hi>Ad me dictum eſt Verbum ab<g ref="char:EOLhyphen"/>ſconditum, &amp; quaſi furtive ſuſcepit auris mea venas ſuſurri ejus, &amp; quaſi vocem aurae lenis audivi;</hi> To me was ſpoken a Secret Word, and, as it were by
+<pb n="7" facs="tcp:29799:5"/>ſtealth, my Ears received the <hi>Whiſperings</hi> thereof; like the <hi>Pleaſant Murmurs</hi> of ſome purling Stream, or like a <hi>Gentle Breeze</hi> againſt the Leaves. Some are of Opinion, That <hi>Eliphas</hi> did only boaſt; and <hi>Liranus</hi> ſaith, It is a pure Miſtake; becauſe (ſaith he) <hi>God</hi> ſeldom, if ever, reveals his Secrets to wicked Men; ſuch as <hi>Eliphas</hi> was: However, were it ſo, or were it otherwiſe,
+<note place="margin">
+                     <hi>l.</hi> 5. <hi>c.</hi> 20.</note> the Great Saint <hi>Gregory</hi> takes an Occaſion from theſe Words of his, to make us acquainted with the <hi>Loving Conduct</hi> of our <hi>God</hi> towards his Favourites; He Explicates the Inſpirati<g ref="char:EOLhyphen"/>ons of the <hi>Almighty,</hi> by a <hi>Metaphor</hi> drawn from the <hi>Pure Rivulets</hi> ſoftly gliding through the Woods, or upon a Gravel; whoſe little grumbling Murmur, and pleaſant Noiſe, is ſo ſtill; a Man muſt preſs his Ears to hear it, it is ſo delicate. The Inſpirations of our <hi>God</hi> ſlide ſo eaſily into the Heart of Man, and paſs away <hi>ſo gently,</hi> they be often gone before we feel them; our Mind being <hi>divided</hi> about the little Affairs of Life, and our dull Spirits unfit for the Maxims of a <hi>Spiritual Conduct.</hi>
+               </p>
+               <p>Yet the Manner, the very Method of this <hi>Interior Voice,</hi> is admirable: <hi>Love</hi> and <hi>Fear</hi> do <hi>interchange<g ref="char:EOLhyphen"/>ably</hi> play their Part;
+<note place="margin">St. Greg. ut ſupra.</note> they do each <hi>ſolicite</hi> and <hi>terrify</hi> the Heart of Man: <hi>Aliquando amore, aliquando nos ter<g ref="char:EOLhyphen"/>rore
+<pb n="8" facs="tcp:29799:6"/>compungit:</hi> The Voice of <hi>Love</hi> is full of <hi>Conſola<g ref="char:EOLhyphen"/>tions;</hi> it doth <hi>charm</hi> us ſometimes in Prayer, and <hi>regals</hi> our Appetites with <hi>Delights</hi> that are wholly Spiritual in our Communions. This is that Voice, the <hi>Spouſe</hi> doth mention in the <hi>Canticles,</hi> with ſo much Reverence:
+<note place="margin">
+                     <hi>Cant.</hi> 2.14.</note> 
+                  <hi>Sonet vox tua in auribus meis, vox enim tua dulcis;</hi> Beloved of my Soul, ſpeak unto me; let your Voice but reach the Ears of my Heart; it is <hi>charming</hi> to a Miracle; it is all Divine, as all de<g ref="char:EOLhyphen"/>vout Souls do teſtifie, that have heard it. Saint <hi>Gregory</hi> compares it to that <hi>Kiſs,</hi>
+                  <note place="margin">
+                     <hi>Cant.</hi> 1.1.</note> the <hi>Chaſte-Lover</hi> did covet with ſo much Ardor; <hi>Oſculetur me oſculo oris ſui:</hi>
+                  <note place="margin">
+                     <hi>c.</hi> 1. <hi>de dev. Nom.</hi>
+                  </note> and St. <hi>Denys</hi> calls it, <hi>Stimulos dulces divini amoris,</hi> The ſweet Incentives of Divine <hi>Love;</hi> they <hi>awake</hi> your <hi>drowſie Souls,</hi> and puſh them <hi>forward,</hi> and make them walk with large <hi>Steps</hi> in the Service of their <hi>God;</hi> they effectually thruſt them on; and yet, its Force is Sweet, and full of Comfort; it mode<g ref="char:EOLhyphen"/>rates whatever is <hi>harſh</hi> in the Rule of Vertue, <hi>Ali<g ref="char:EOLhyphen"/>quando amore, aliquando nos terrore compungit:</hi> Thoſe <hi>ſtiff-neckt</hi> Souls, whom <hi>Love</hi> and <hi>Sweetneſs</hi> cannot gain upon, <hi>terrore compungit,</hi> He hath his <hi>Terrors</hi> in Store; and where <hi>Love</hi> cannot compaſs, <hi>Menaces</hi> and <hi>Threats</hi> do gain the Point, and make their hard Hearts <hi>ſupple</hi> and <hi>comply:</hi> The <hi>Thoughts</hi> of Death, the <hi>Dread</hi> of Hell, the <hi>Rigours</hi> of a Divine Juſtice,
+<pb n="9" facs="tcp:29799:6"/>the <hi>Sting</hi> of Conſcience, the <hi>gaſtly Shapes</hi> which Sin alwayes leaves behind, <hi>terrifies</hi> a miſerable Soul, inſtills in him a <hi>horror</hi> for his Sin, makes him <hi>hear,</hi> and at length <hi>love</hi> his <hi>God.</hi>
+               </p>
+               <p>I find in the Book of <hi>Job,</hi> a certain Paſſage fit to our preſent Purpoſe;
+<note place="margin">
+                     <hi>Job</hi> 33.15.</note> 
+                  <hi>Per ſomnum in viſione Nocturna quando irruit ſopor ſuper homines;</hi> Fear and Appre<g ref="char:EOLhyphen"/>henſion ſeize upon a Man in the Night, whilſt a<g ref="char:EOLhyphen"/>ſleep, and in his Dreams, ſuddenly do reach the Ears of his Heart, <hi>ſurpriſe</hi> his Soul, and in a <hi>Language</hi> above what's common, lays before his Eyes the <hi>miſerable Condition</hi> wherein he <hi>languiſheth;</hi> and inſtructs him how to get <hi>free.</hi> So that, theſe <hi>Nightly Horrors</hi> are often the <hi>Inſpirations</hi> of the Almighty,
+<note place="margin">
+                     <hi>Job</hi> 15.21,</note> 
+                  <hi>Sonitus ter<g ref="char:EOLhyphen"/>roris ſemper in auribus impii;</hi> Almighty <hi>God</hi> is ſo <hi>ſoli<g ref="char:EOLhyphen"/>citous</hi> to ſave Man, that he raiſeth a <hi>frightful Noiſe</hi> in the Ears of the Impious, which doth <hi>terrifie</hi> them continually.</p>
+               <p>St. <hi>Paul</hi> deciphers this Voice of <hi>God,</hi> as he doth all things elſe, in a moſt <hi>wonderful</hi> manner; and ſaith, That whenſoever and whomſoever it calls upon, it is ſtill in order for their <hi>greater</hi> Good; it <hi>Remon<g ref="char:EOLhyphen"/>ſtrates</hi> the Dangers that <hi>ſurround</hi> them, it ſhews the Means of <hi>Evaſion,</hi> and declares the <hi>Advantages</hi> of
+<pb n="10" facs="tcp:29799:7"/>a better State. You Worldly Man, who <hi>fondly,</hi> and even <hi>fooliſhly</hi> ingage your Heart to theſe things be<g ref="char:EOLhyphen"/>low; Are you not truly ſenſible, that the <hi>Acquiſition</hi> of what you covet, is both <hi>dangerous</hi> and <hi>painful?</hi> How many do <hi>ſell</hi> their Souls for thoſe very things, which afterward do <hi>vex</hi> and <hi>torment</hi> them? A little <hi>Riches,</hi> for example, <hi>unjuſtly gotten,</hi> bring along with them a thouſand <hi>Troubles</hi> and <hi>Diſquiets;</hi> the <hi>Care</hi> of <hi>keeping</hi> them, is <hi>fenc't</hi> with <hi>Fears</hi> and <hi>Apprehenſions;</hi> and Chagrin, <hi>Vexation</hi> of Mind, and a Grief <hi>unſpeak<g ref="char:EOLhyphen"/>able,</hi> do attend and wait upon their Loſs. O! were it not much better, ſaith the Loving <hi>Spouſe</hi> of our Souls, to abandon all theſe, which will <hi>infallibly</hi> leave us? Their Friendſhip <hi>is falſe,</hi> and their <hi>deceit<g ref="char:EOLhyphen"/>ful</hi> Amity, the <hi>certain Cauſe</hi> of many Croſſes, Cares and Crimes: If you muſt ſtill be getting, ſeek and purchaſe the Goods of Heaven, which are only true Goods, and can <hi>only ſatisfie</hi> the Heart of Man, and make him happy.</p>
+               <p>It is ſtrange to ſee, how this <hi>Interior Voice</hi> fami<g ref="char:EOLhyphen"/>liarly <hi>converſeth with,</hi> and <hi>preſſingly ſolicits</hi> the Heart of a Sinner! Few here, I am apt to believe, that have not (at ſome time) experienc'd what I am now about to ſay. How often hath <hi>God</hi> ſpoken to your <hi>evil-diſpoſed Heart,</hi> in the midd'ſt of your
+<pb n="11" facs="tcp:29799:7"/>Wickedneſs, while you were <hi>actually</hi> offending him? How often hath he <hi>ſuggeſted</hi> to you the <hi>Severity</hi> of his Decrees, and the <hi>Vanity</hi> of your Preſumption, in letting you ſee, that a <hi>ſudden Death</hi> would <hi>fruſtrate</hi> you of that long-expected Moment, which you <hi>re<g ref="char:EOLhyphen"/>ſerved</hi> till the laſt, to cry <hi>Peccavi,</hi> and for your final Repentance? Do you not fear the Devil, who is rea<g ref="char:EOLhyphen"/>dy to ſeize upon you? who, ſhould your Soul depart in <hi>flagranti delicto,</hi> when in the height of Wicked<g ref="char:EOLhyphen"/>neſs, would infallibly carry you to <hi>Eternal torment<g ref="char:EOLhyphen"/>ing-Flames?</hi> O wretched Man! Think upon your End; and reflect, that the time which now is lent you, are <hi>dies acceptabiles,</hi> Dayes of Mercy; and theſe once let ſlip <hi>in vain,</hi> Eternal <hi>Death</hi> and <hi>Horror</hi> cloſely waits upon their Train.</p>
+               <p>The Children of the <hi>Jews</hi> were earneſt heretofore in their Suit to <hi>Moyſes,</hi> that they might <hi>never-more</hi> hear their <hi>God</hi> to ſpeak, becauſe his Words were generally <hi>delivered</hi> in Threats and Thunder;
+<note place="margin">
+                     <hi>Exod.</hi> 20.9.</note> 
+                  <hi>Non loquatur nobis Dominus, ne forte moriamur,</hi> We ſhall certainly die, if He but ſpeak. But this <hi>Interior Voice</hi> is of another Temper; <hi>Loquetur pacem in plebem ſuam,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 84.9.</note> It is a Voice of <hi>Peace,</hi> of <hi>Comfort</hi> and <hi>Conſolation;</hi> diſſipateth the Clouds of <hi>Ignorance,</hi> and calls the <hi>Wan<g ref="char:EOLhyphen"/>dering Sheep</hi> home to Fold; and conſequently, all
+<pb n="12" facs="tcp:29799:8"/>that are, or would be good, are bound to hear it; <hi>Oves meae vocem meam audient:</hi> And if any are ſo <hi>ſtupid,</hi> or <hi>ill-adviſed,</hi> as not to hearken to it, let ſuch prepare their Ears for another Sound, for a <hi>Voice</hi> of Terror and Indignation;
+<note place="margin">
+                     <hi>Prov.</hi> 1.24.</note> 
+                  <hi>Vocavi &amp; renuiſtis, ego quo<g ref="char:EOLhyphen"/>que in interitu veſtro ridebo:</hi> I have call'd upon you, and you were deaf to my Admonitions; I have call'd upon you by my <hi>Secret Inſpirations,</hi> whereby I have ſo often <hi>toucht</hi> your Heart, ſo often have <hi>diſcover'd</hi> unto you the <hi>Severities</hi> of my Judgments, have made you ſenſible of thoſe <hi>Tormenting Flames,</hi> that you will infallibly feel, if you fall-under my Hands, <hi>&amp; renuiſtis;</hi> and you have ſlighted all theſe. But when Death ſhall ſeize upon you, and make you <hi>tremble</hi> with his cold <hi>Approaches,</hi> when your poor Heart ſhall be <hi>terrify'd</hi> with that <hi>Gaſtly Company,</hi> which ſhall then <hi>ſurround</hi> your <hi>Couch;</hi> when in your <hi>laſt</hi> and <hi>dying Agony</hi> you ſhall call upon your <hi>God,</hi> your <hi>Maker,</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 1.</note> and <hi>Redeemer, Ego in interitu veſtro ri<g ref="char:EOLhyphen"/>debo,</hi> I will then laugh at all your Miſeries. O <hi>Chriſtians!</hi> Theſe Threats are able to daunt the moſt <hi>fix't Courage;</hi> and the Effects of them, which <hi>fre<g ref="char:EOLhyphen"/>quently</hi> happen, do often create Deſpair. How many in the World, whil'ſt living, were often and <hi>copiouſly</hi> bleſt with Sacred Documents from Above; yet, at the Point of Death, becauſe deaf to their <hi>Firſt Call,</hi>
+                  <pb n="13" facs="tcp:29799:8"/>did want the Grace of a true <hi>Repentance;</hi> and ſo lay down cruſht in Sin.</p>
+               <p>The ſtrange Example of <hi>Origen,</hi> methinks, ſhould wonderfully raiſe <hi>Attention</hi> in Us, and make us liſten <hi>diligently</hi> to the Written Word of <hi>God;</hi> which is his Second Voice: St. <hi>Epiphanius</hi> relates the Story of him in his Second Book. He ſaith, That this <hi>unhappy Man,</hi> after his <hi>ſhameful</hi> Fall in <hi>Alexan<g ref="char:EOLhyphen"/>dria,</hi> where, forc'd by a cruel <hi>Perſecution</hi> raiſed a<g ref="char:EOLhyphen"/>gainſt the <hi>Chriſtians,</hi> he offered <hi>Incenſe</hi> to the Deity of thoſe <hi>Heathen</hi> Idols; not being able to bear the conſtant <hi>Taunts,</hi> and <hi>Jeers,</hi> daily flung upon him by men <hi>ſcandalized</hi> to ſee a Perſon of his Wit and Learning commit ſo <hi>baſe</hi> a Crime, he reſolves to <hi>with-draw,</hi> to <hi>retire</hi> into the <hi>Holy Land,</hi> and there (<hi>unknown</hi> and <hi>diſregarded</hi>) ſpend the poor <hi>Remains</hi> of his dayes: But, <hi>
+                     <g ref="char:V">Ʋ</g>ltrices manus pariter,</hi> The re<g ref="char:EOLhyphen"/>vengeful Hand of <hi>God</hi> went ſtill <hi>along</hi> with him; for he was no ſooner got to <hi>Hieruſalem,</hi> but the <hi>Re<g ref="char:EOLhyphen"/>port</hi> of his Learning <hi>arrived</hi> with him, and he was immediately <hi>intreated</hi> by the Inhabitants of that City, to honour them with ſome <hi>ſelect Piece</hi> of his <hi>Gallant Wit,</hi> which had already gained <hi>Renown</hi> with them; though they had not, as yet, been ſo <hi>fortunate</hi> as to be <hi>acquainted</hi> with his Perſon. <hi>Origen</hi> excuſed him<g ref="char:EOLhyphen"/>ſelf
+<pb n="14" facs="tcp:29799:9"/>all he could, <hi>alledging</hi> his great <hi>Indiſpoſition,</hi> by reaſon of his long Travels, with many other <hi>ſpeci<g ref="char:EOLhyphen"/>ous</hi> Pretences; but none would gain <hi>Acceptance</hi> with thoſe earneſt <hi>Supplicants,</hi> who before-hand had <hi>re<g ref="char:EOLhyphen"/>ſolved</hi> to admit of no Excuſe, and would not be ſaid Nay. In fine, finding himſelf <hi>extreamly</hi> preſt, he <hi>condeſcended</hi> to their Importunity; he mounts the Chair, and takes the <hi>Bible</hi> along with him, which is the <hi>Written</hi> Voice of <hi>God,</hi> intending to make the firſt Text of <hi>Scripture</hi> that ſhould <hi>occur,</hi> the Subject of his <hi>Diſcourſe;</hi> and thereupon dilate himſelf, as the <hi>Holy Ghoſt</hi> ſhould <hi>ſuggeſt</hi> unto him: He opens the Book, and the very firſt <hi>glance</hi> of his Eye fell upon that Verſe of the Royal Prophet, in his 49th Pſalm;
+<note place="margin">
+                     <hi>Pſal.</hi> 49.16, 17.</note> 
+                  <hi>Peccatori dixit Deus, Quare tu enarras Juſtitias meas &amp; aſſumis Teſtamentum meum per os tuum? tu enim odiſti diſciplinam &amp; projeciſti Sermones meos re<g ref="char:EOLhyphen"/>trorſum;</hi> To the Sinner <hi>God</hi> hath ſaid, Why doth thou <hi>declare</hi> my <hi>Juſtices,</hi> and takeſt my <hi>Teſtimony</hi> by thy Mouth? Thou haſt hated <hi>Diſcipline,</hi> and caſt my Words <hi>behind</hi> thee; Which, in ſhort, is thus; How dare you <hi>announce</hi> my Law, and my Goſpel to this People, now that you have ſo <hi>baſely,</hi> and ſo <hi>unworthily</hi> tranſgreſt them both? Having read theſe Words in a <hi>languiſhing Tone,</hi> with a <hi>pale</hi> and <hi>reſerved Countenance,</hi> he ſhut his Book, he laid it
+<pb n="15" facs="tcp:29799:9"/>by, and, like a Perſon <hi>ſtruck</hi> from Heaven, did loſe both <hi>Senſe</hi> and <hi>Speech.</hi> The People, who did thither <hi>flock</hi> in Crouds to hear him, were <hi>aſtoniſhed</hi> at this new way of <hi>Preaching:</hi> In the mean while, poor <hi>Origen's</hi> Heart was daunted; and ſeeing himſelf <hi>con<g ref="char:EOLhyphen"/>demned</hi> by his own Words, he did <hi>yield</hi> up his Soul to <hi>Grief,</hi> his Eyes to <hi>Tears,</hi> his Mouth to <hi>Sighs</hi> and <hi>Groans.</hi> My <hi>God!</hi> What a <hi>Sermon</hi> was here? 'ſpe<g ref="char:EOLhyphen"/>cially for <hi>Origen,</hi> to whoſe Heart <hi>God</hi> did ſpeak, and ſpeak ſo, as to make him <hi>Wiſer</hi> by his Fall.</p>
+               <p>Whilſt we, <hi>wretched Sinners,</hi> can <hi>brave</hi> the Inſpi<g ref="char:EOLhyphen"/>rations of Heaven, and what we <hi>read</hi> make no <hi>eſteem</hi> of; we have juſt reaſon to <hi>fear,</hi> that while thus we ſtop our Ears, while thus we <hi>block</hi> up all the Ave<g ref="char:EOLhyphen"/>nues to our ill-inſtructed Heart, <hi>Almighty God</hi> ſeeks no other way of <hi>Entrance;</hi> and he who ſlights a prof<g ref="char:EOLhyphen"/>fer'd Guide, may find no other <hi>Way</hi> to Bliſs. The rich Man in the Goſpel deſired to be <hi>reviv'd,</hi> and live again on Earth, that by <hi>converſing</hi> with his Bro<g ref="char:EOLhyphen"/>thers, and <hi>deſcribing</hi> unto them the <hi>Horrors</hi> of that Place of Torments, where he had ſo long been <hi>de<g ref="char:EOLhyphen"/>tained</hi> a Sufferer, he might teach them how to avoid it: But Anſwer was made him,
+<note place="margin">
+                     <hi>Luc.</hi> 16.29.</note> 
+                  <hi>Habent Moyſen &amp; Prophetas, audiant eos;</hi> If they will neither hear <hi>Moy<g ref="char:EOLhyphen"/>ſes,</hi> nor the <hi>Prophets,</hi> 'tis to be <hi>feared,</hi> they'l not
+<pb n="16" facs="tcp:29799:10"/>believe a damned Soul, tho' come from Hell; and ſo his Suit was rejected.</p>
+               <p>Who of all Us, that hath not <hi>experienced</hi> both theſe? No Heart ſo <hi>averſe,</hi> which <hi>God</hi> hath not <hi>ſtrove</hi> to win; no Sinner ſo <hi>depraved,</hi> for whom the <hi>Al<g ref="char:EOLhyphen"/>mighty</hi> hath not ſtill a <hi>Pardon</hi> in <hi>reſerve:</hi> His Voice hath been <hi>heard</hi> ſeveral times; and we, like drouſie idle Sheep do never mind it. He did ſpeak with his <hi>tears,</hi> as ſoon as he was born, <hi>Primam ſimilem nobis emiſit vocem plorans,</hi> and only a few poor Shepherds, and three ſtrange Kings, did take notice of it. Be<g ref="char:EOLhyphen"/>ing able to <hi>write</hi> Man, he did <hi>raiſe</hi> his Voice, he did <hi>ſpeak</hi> louder, he <hi>preached</hi> almoſt daily; and only a <hi>Samaritan,</hi> a <hi>Zacheus,</hi> a <hi>Centurion,</hi> a <hi>Magdalen,</hi> were <hi>awaked</hi> from the <hi>ſleep</hi> of Sin at the Sound of it; <hi>Jewry</hi> and <hi>Hieruſalem</hi> were quite deaf. He aſcended the Pulpit of the Croſs, and did ſpeak with ſo much <hi>Violence,</hi> he did <hi>read</hi> his very Throat, and <hi>ſent</hi> forth his Soul at it; and only one poor Thief did <hi>hear,</hi> and was <hi>ſenſible</hi> of the <hi>Noiſe</hi> he made. The <hi>Scribes</hi> and <hi>Phariſces, Herod,</hi> and all the Soldiers, were at the very <hi>foot</hi> of the Chair, and <hi>could</hi> not, or <hi>would</hi> not hear one <hi>ſingle</hi> Syllable. When he roſe from the Grave, he did ſpeak ſo <hi>earneſtly,</hi> he moved the very Stone from off him; and yet the Watch <hi>remained</hi>
+                  <pb n="17" facs="tcp:29799:10"/>faſt a-ſleep, <hi>Dicite quia vobis dormientibus;</hi> They were none of his Sheep, they did not <hi>hear</hi> his Voice: or, if they did, they wanted both <hi>Simplicity,</hi> and <hi>Obedience;</hi> which are two <hi>Qualities</hi> abſolutely <hi>requi<g ref="char:EOLhyphen"/>ſite</hi> for good Sheep, as you will find by my <hi>Second Point.</hi>
+               </p>
+            </div>
+            <div n="2" type="point">
+               <head>POINT II. Vocem meam audient, <hi>They will hear my Voice.</hi>
+               </head>
+               <p>THE Prince of the Apoſtles called the <hi>Sheep</hi> of <hi>JES<g ref="char:V">Ʋ</g>S,</hi> who are the true <hi>Children</hi> of the <hi>Church,</hi> and whom he was <hi>commiſſioned</hi> to feed, <hi>Filios Obedientiae,</hi> Sons of Obedience: He exhorts them to ſhew themſelves ſuch in <hi>Reality,</hi> by the <hi>Obſervance</hi> of <hi>God</hi>'s Commands: He is not content to have them only <hi>Obedient,</hi> for that alone will never make them <hi>Perfect;</hi> but, moreover, <hi>re<g ref="char:EOLhyphen"/>quires</hi> they ſhould be <hi>Prudently</hi> ſimple;
+<note place="margin">
+                     <hi>Matth. c.</hi> 10.16.</note> 
+                  <hi>Prudentes ſicut Serpentes, ſimplices ſicut Columbae;</hi> They muſt be like Sheep, and <hi>obſerve</hi> their Paſtor in all his Mo<g ref="char:EOLhyphen"/>tions. The very <hi>Eſſence</hi> of a <hi>Chriſtian</hi> requires both
+<pb n="18" facs="tcp:29799:11"/>theſe Qualities, <hi>Simplicity</hi> in believing the Articles propoſed unto Us, and <hi>Obedience</hi> in performing what they demand of Us.</p>
+               <p>When Man doth firſt commence <hi>Chriſtian,</hi> the firſt Queſtion that is put unto him, is, <hi>Quid petis ab Eccleſia Sancta Dei,</hi>
+                  <note place="margin">Ita Ritual.</note> What do you ask of the Church of God? and he anſwers, Faith, <hi>Fidem:</hi> It is the Firſt of All the Vertues <hi>inſuſed</hi> in <hi>Baptiſm,</hi> and the moſt neceſſarily <hi>requiſite</hi> upon ſeveral Reſpects: <hi>Firſt,</hi> Becauſe it is the Baſis, or <hi>Ground,</hi> on which all our Hopes are built; For, <hi>Tolle Fidem, &amp; caetera ſuſtu<g ref="char:EOLhyphen"/>liſti,</hi> Take Faith from Man, and he is but one <hi>poor Degree</hi> above a Brute; and, as in a Building the <hi>Foun<g ref="char:EOLhyphen"/>dations</hi> do always lye concealed within the Earth; ſo thoſe Myſteries which are propoſed unto us by our <hi>Faith,</hi> lye all <hi>cloſe concealed</hi> within the hidden Secrets of the <hi>Divine Veracity:</hi>
+                  <note place="margin">Athan. in Synopſi.</note> 
+                  <hi>Gloria Dei eſt celare verbum;</hi> Almighty <hi>God</hi> doth <hi>glory</hi> in hiding his <hi>Se<g ref="char:EOLhyphen"/>crets</hi> from Us; and a Man doth merit more by ſim<g ref="char:EOLhyphen"/>ply aſſenting to what he cannot comprehend:
+<note place="margin">
+                     <hi>St. Greg. hom</hi> 28. <hi>in Evang.</hi>
+                  </note> for, <hi>Non habet ſides meritum ubi humana ratio praebet expe<g ref="char:EOLhyphen"/>rimentum;</hi> Our Faith is <hi>uſeleſs,</hi> and cannot <hi>claim</hi> Deſert, where Human Reaſon hath gained Expe<g ref="char:EOLhyphen"/>rience.</p>
+               <pb n="19" facs="tcp:29799:11"/>
+               <p> 
+                  <hi>Secondly,</hi> If we conſider the <hi>Objects</hi> propoſed unto Us, we ought to be truly ſimple, and <hi>vail</hi> our Judg<g ref="char:EOLhyphen"/>ment; becauſe all the Myſteries of our Faith do ſurpaſs the <hi>reach</hi> of Human Underſtanding; That, for Example, of the <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> and <hi>Trinity</hi> of <hi>God,</hi> can never fall under the <hi>Light</hi> of Human Reaſon; but is made known unto Us by a <hi>Supernatural</hi> Revelation: What Wit, tho' moſt <hi>refin'd?</hi> What Underſtanding, tho' never ſo <hi>penetrating,</hi> can diſcover <hi>Three</hi> in <hi>One,</hi> and <hi>One</hi> in <hi>Three?</hi> One and the Self-ſame <hi>Eſſence</hi> of a Deity in <hi>Three</hi> diſtinct Perſons, and a <hi>Plurality</hi> of Perſons in <hi>One</hi> and the ſame <hi>God.</hi>
+               </p>
+               <p>Every Man hath <hi>Two</hi> Eyes; One <hi>Nature</hi> did pro<g ref="char:EOLhyphen"/>vide him with, and that's his <hi>Judgment,</hi> and his <hi>Reaſon;</hi> the Other was <hi>lent</hi> him by <hi>Grace,</hi> and that's his <hi>Faith:</hi> If he intend to <hi>ſee</hi> perfectly with This, he muſt <hi>wink</hi> with the Other: <hi>cloſe</hi> the Eye of <hi>Human Reaſon,</hi> and your <hi>Faith</hi> will be more <hi>diſcerning.</hi> Have you never obſerved a Man, who <hi>aims</hi> a-right, and infallibly <hi>hits</hi> the Mark, he <hi>winks</hi> with one of his Eyes; for then thoſe <hi>Spirits</hi> which did <hi>ſerve</hi> them Both, now joyn'd together to <hi>aſſiſt</hi> but One, do <hi>ſtrengthen</hi> the Faculty, and make the <hi>Shot</hi> more certain: So you, if you de<g ref="char:EOLhyphen"/>ſign the <hi>attaining</hi> thoſe Myſteries, whoſe <hi>Knowledge</hi> our <hi>lowly</hi> Nature cannot reach to, muſt <hi>wink</hi> with the
+<pb n="18" facs="tcp:29799:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:29799:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:29799:13"/>Eye of your <hi>Reaſon,</hi> and only look through the <hi>ſimply</hi> ſingle Eye of <hi>Faith.</hi> The <hi>Spouſe</hi> in the <hi>Cantieles</hi> had Two moſt beautiful Eyes; they were like the Eyes of a <hi>Dove,</hi>
+                  <note place="margin">
+                     <hi>Cant. c.</hi> 1.15. <hi>Cant.</hi> 14.9.</note> 
+                  <hi>Oculi tui Columbarum;</hi> yet, as we read, She <hi>wounded</hi> her Beloved with only One; <hi>Vulneraſti cor meum in uno oculorum tuorum:</hi> Hence we gather, that it was not the Eyes of her Body that <hi>wrought</hi> this Conqueſt; for they were <hi>charming</hi> both alike: But it was the <hi>piercing</hi> ſingle Eye of her Faith, which <hi>gave</hi> the Wound, and made his <hi>Heart</hi> her <hi>Captive.</hi>
+               </p>
+               <p>All thoſe <hi>knowing Wits,</hi> which are moſt of all illu<g ref="char:EOLhyphen"/>minated with the Light of <hi>Human Reaſon,</hi> are not always the moſt <hi>Sincere</hi> and <hi>Faithful:</hi> A poor ignorant Perſon, whoſe <hi>Heart</hi> doth know no <hi>double,</hi> and is only Owner of a <hi>ſingle</hi> Faith, ſhall do more, ſhall love his <hi>God</hi> more <hi>intirely,</hi> ſhall gain a greater knowledge, and conſequently a more <hi>ample</hi> Merit, than thoſe <hi>high-flown</hi> Minds, whoſe Concep<g ref="char:EOLhyphen"/>tions are the <hi>Rule</hi> they go by, and vainly fancy their <hi>ſhallow narrow</hi> thoughts a <hi>Gage</hi> capable of the Gran<g ref="char:EOLhyphen"/>deurs of an <hi>Infinity.</hi>
+               </p>
+               <p>The Hiſtory of <hi>Alanus</hi> is a <hi>demonſtration</hi> of this Verity: This Man was the moſt remarkable of his Time, the moſt <hi>Learned</hi> Perſon that then did live:
+<pb n="21" facs="tcp:29799:13"/>The very <hi>Epitaph</hi> upon his Grave-Stone doth make it out; <hi>Qui duo, qui ſeptem, qui omne ſcibile ſcivit:</hi> He had run through, and did underſtand the <hi>Texts</hi> of both the <hi>Teſtaments;</hi> He was moſt excellently well <hi>Vers'd</hi> in all the Seven <hi>Liberal</hi> Sciences: In fine, he <hi>knew</hi> all could be, or was <hi>fitting</hi> to be known. This Prodigy of <hi>Wit</hi> and <hi>Science,</hi> upon a time, <hi>invited</hi> the Inhabitants of <hi>Paris</hi> to be his <hi>Judges,</hi> and hear a Sermon of his; wherein he <hi>promiſed</hi> to give them a <hi>large</hi> and <hi>perfect</hi> Explication of the <hi>Myſtery</hi> of the ever-bleſſed <hi>Trinity;</hi> and the better to adapt himſelf for this <hi>Enterprize,</hi> he makes a <hi>Collection</hi> of all the <hi>Arguments</hi> and <hi>Paſſages</hi> of Scripture, that might beſt <hi>ſerve his</hi> turn: The Night before he was to <hi>appear</hi> in Publick, walking by a <hi>River</hi> ſide, <hi>muſing</hi> with him<g ref="char:EOLhyphen"/>ſelf, and <hi>poliſhing</hi> his Diſcourſe, he was <hi>diverted</hi> with the pleaſing <hi>Object</hi> of a beautiful little Boy, who, ſit<g ref="char:EOLhyphen"/>ting on the Bank-ſide, was <hi>lathing</hi> with the Palm of its pretty Hand, the Water of the <hi>River</hi> into a little hole which he had made on the Bank-ſide: Sur<g ref="char:EOLhyphen"/>prized, and withal <hi>delighted</hi> with the pretty Spe<g ref="char:EOLhyphen"/>ctacle, inquires, what its <hi>deſign</hi> could be, he ſeemed ſo <hi>buſie</hi> about? Why, Sir, my <hi>deſign</hi> is to put all that <hi>water</hi> you ſee between theſe two <hi>Banks,</hi> into this little <hi>hole</hi> I <hi>here</hi> have made. Alas! replyed <hi>Alanus,</hi> ſmiling, you will be a great <hi>while</hi> before you will be able to <hi>com<g ref="char:EOLhyphen"/>paſs</hi>
+                  <pb n="22" facs="tcp:29799:14"/>that: No, Sir, excuſe me, not ſo <hi>long</hi> as you <hi>imagine;</hi> for I ſhall have <hi>perform'd</hi> this <hi>intended</hi> Task, before you will have made <hi>good</hi> your <hi>promiſe,</hi> and have <hi>explicated</hi> the Myſtery of the <hi>Trinity;</hi> and ha<g ref="char:EOLhyphen"/>ving ſaid ſo, he <hi>vaniſht.</hi> It was <hi>doubtleſs</hi> ſome Angel ſent from <hi>God,</hi> to <hi>Teach</hi> this Doctor, <hi>Simplicity,</hi> and confound his <hi>Preſumption:</hi> and he was ſo <hi>ſurprized</hi> with this Anſwer, and withal ſo <hi>ſenſible</hi> of his Teme<g ref="char:EOLhyphen"/>rity, that he immediately <hi>became</hi> a Shepherd, and tended the Sheep of a certain <hi>Monaſtery</hi> of Saint <hi>Bernard</hi>'s Order; in which he alſo <hi>afterwards</hi> became Religious. From hence we may <hi>learn,</hi> that a ſimple Faith dives more profoundly into the greater Myſte<g ref="char:EOLhyphen"/>ries of Religion. <hi>Neſcio,</hi> ſaith the Great St. <hi>Auguſtin, &amp; libere me neſcire profiteor,</hi>
+                  <note place="margin">Aug. Serm. de S. Trinit.</note> 
+                  <hi>&amp; in hoc Chriſtianus ſum quod unum Deum in Trinitate confiteor:</hi> For my ſhare, I do <hi>freely</hi> own my Ignorance, and in this I think my ſelf the better <hi>Chriſtian,</hi> in that I <hi>profeſs</hi> and do <hi>adore</hi> One <hi>God</hi> in Three <hi>Perſons,</hi> notwithſtanding I cannot comprehend it.</p>
+               <p>The Holy Ghoſt could, if he had ſo <hi>pleaſed,</hi> have <hi>clear'd</hi> all our Doubts; and yet hath <hi>left</hi> us in the dark, that in our ſimple Belief our Faith ſhould <hi>reap</hi> a more <hi>copious</hi> Merit, <hi>Cum ſimplicibus ſermocinatio ejus:</hi> Almighty <hi>God,</hi> ſaith <hi>Solomon,</hi> diſcovers his <hi>Secrets,</hi>
+                  <pb n="23" facs="tcp:29799:14"/>and <hi>familiarly</hi> converſeth with the ſimple of heart: I could wiſh from <hi>mine,</hi> that we were all of the ſame <hi>mind</hi> with the Learned <hi>Tertullian; Nobis,</hi> ſaith he,
+<note place="margin">
+                     <hi>De Praeſc. c.</hi> 8.</note> 
+                  <hi>cu<g ref="char:EOLhyphen"/>rioſitate opus non eſt poſt Jeſum Chriſtum, nec inquiſitione poſt Evangelium:</hi> Now, that <hi>Jeſus Chriſt</hi> hath <hi>re<g ref="char:EOLhyphen"/>vealed</hi> his Verities, our <hi>curioſity</hi> is not neceſſary, but <hi>fruitleſs;</hi> and all <hi>demands</hi> are vain to him, that hath <hi>received,</hi> and profeſſeth the Goſpel: In all our <hi>Points</hi> of Faith, it is ſufficient that God hath ſaid it; <hi>haec dicit Dominus,</hi> one ſingle word of his <hi>out-weighs</hi> Ten thouſand Reaſons.</p>
+               <p>The other <hi>Property</hi> that is obſerved in Sheep, is, their <hi>Obedience;</hi> they go with their <hi>Shepherd</hi> where<g ref="char:EOLhyphen"/>ſoever he <hi>pleaſes</hi> to lead them; they are <hi>attentive,</hi> and do hear his Voice; they <hi>remain</hi> in Fold till he <hi>releaſe</hi> them; they <hi>feed</hi> as long as he <hi>thinks</hi> expedient, and <hi>take</hi> their Reſt when he <hi>appoints</hi> them: <hi>Et nos Chri<g ref="char:EOLhyphen"/>ſtiani,</hi> ſaith St. <hi>Clement,</hi>
+                  <note place="margin">Initio Recognit.</note> 
+                  <hi>de nulla re vel eventu ſoliciti in providentia Dei conquieſcimus;</hi> And we, if we be good <hi>Chriſtians,</hi> like good <hi>Sheep,</hi> repoſe wholly in the <hi>Providence</hi> of our God, who <hi>ſecures</hi> us by his <hi>Care;</hi>
+                  <note place="margin">
+                     <hi>Aug. l.</hi> 8. <hi>Conf. c.</hi> 11.</note> for Saint <hi>Auguſtin</hi> ſeems to blame us with a <hi>Quid in te ſtas &amp; non ſtas? projice te in eum, projice te ſecurus, recipiet te;</hi> Never confide in your <hi>own</hi> force, but lay your whole <hi>ſtreſs</hi> on <hi>God;</hi> if he <hi>receive</hi> you, you may
+<pb n="24" facs="tcp:29799:15"/>walk <hi>ſecure,</hi> and <hi>free</hi> from danger; he will take <hi>care</hi> of your Temporals, he will <hi>direct</hi> your Spirituals, and <hi>lead</hi> you to Eternity.</p>
+               <p>Almighty <hi>God</hi> in the 54th <hi>Pſalm</hi> of the <hi>Royal</hi> Pro<g ref="char:EOLhyphen"/>phet, adviſeth us <hi>intirely</hi> to rely upon his <hi>Providence;</hi> and like <hi>ſimple</hi> obedient Sheep, <hi>leave</hi> all the <hi>ſolicitude</hi> for our Temporals, to the <hi>Care</hi> of our vigilant Paſtor: <hi>Jacta cogitatum tuum in Dominum,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 54.25.</note> 
+                  <hi>&amp; ipſe te enutriet.</hi> The Antients, who have been <hi>ſurpaſſing</hi> ingenious in their Deſcriptions, have <hi>repreſented</hi> unto us the <hi>God</hi> of Nature in an <hi>human Shape,</hi> all over <hi>Breaſt</hi> from Head to Foot, and all the <hi>Animals</hi> of the Earth <hi>ſucking</hi> at it; only Man, whom <hi>chiefly</hi> and moſt of all he loved, this God <hi>Ruminus</hi> carried in his Arms; to in<g ref="char:EOLhyphen"/>form us, That notwithſtanding his <hi>univerſal Care</hi> did feed all the <hi>Beaſts</hi> in the World,
+<note place="margin">
+                     <hi>Pſ.</hi> 145.16.</note> 
+                  <hi>Imples omne animal benedictione;</hi> yet his <hi>kindneſs</hi> to Man was ſo <hi>obliging,</hi> he embraced him <hi>next</hi> his Heart. <hi>Ego quaſi nutritius</hi> Ephraim, <hi>portabam eos in brachiis meis,</hi> ſaith the Prophet <hi>Oſee;</hi>
+                  <note place="margin">
+                     <hi>Chap.</hi> 11.</note> And I, as a <hi>Nurſing</hi>-Father to <hi>Ephraim,</hi> carried them in my Arms: Nay, my <hi>God,</hi> you are to us <hi>more</hi> than a Nurſe; for you let us <hi>Suck</hi> your own Blood;
+<note place="margin">
+                     <hi>St. Joh. Chryſ. hom.</hi> 60. <hi>ad pop. Ant.</hi>
+                  </note> 
+                  <hi>Proprio nos paſcit cruore:</hi> No Nurſe ſo <hi>kind,</hi> nor Shepherd <hi>tender</hi> of his Flock, as to <hi>feed</hi> them with his own <hi>Fleſh</hi> and <hi>Blood:</hi> But
+<pb n="25" facs="tcp:29799:15"/>you have <hi>given</hi> us Both, your <hi>Flesh</hi> for our <hi>Food,</hi> and your <hi>Blood</hi> to refreſh us, <hi>amaena paſcua.</hi>
+               </p>
+               <p>As to what <hi>regards</hi> our Souls, and the <hi>Spiritual</hi> concern thereof, Almighty <hi>God</hi> doth not always <hi>immediately</hi> inter-meddle with it, but makes <hi>uſe</hi> of Men, whoſe <hi>Guide</hi> he is, and whom he <hi>inſtitutes</hi> Directors for others; in <hi>default</hi> of which, many do find themſelves <hi>expoſed</hi> to danger, and liable to be <hi>deceived</hi> by our common Enemy.
+<note place="margin">
+                     <hi>Epſ.</hi> 87. <hi>ad Aug.</hi>
+                  </note> Hence it was the Devout Saint <hi>Bernard</hi> was accuſtomed to ſay, <hi>That that Man who was his own Guide, had a Fool to his Maſter; he needed no Devil to tempt him, for he was worſe to himſelf than any Devil could be: Qui ſe ſibi Magiſtrum conſtituit, ſtulto ſe diſcipulum tradit.</hi> A Lamb that will only <hi>feed</hi> where he <hi>pleaſeth,</hi> is ready to <hi>ſtarve,</hi> and at length <hi>dyes</hi> in the Pownd. My God! what is <hi>Man</hi> if left to himſelf? Our <hi>Wiſ<g ref="char:EOLhyphen"/>dom</hi> is but <hi>Folly,</hi> and our <hi>Knowledge</hi> but <hi>Ignorance</hi> at beſt. Few there be who truly <hi>ſerve</hi> God as they <hi>ought,</hi> and fewer, who, if <hi>guided</hi> by their own Spirit, ever <hi>attain</hi> perfection. How then ſhall they poſſibly <hi>arrive</hi> to their <hi>Eternal</hi> home and happineſs?</p>
+               <p>I call their Eternal <hi>Home,</hi> the Myſtery of their Eternal <hi>Doom;</hi> the Myſtery of their Predeſtination;
+<pb n="26" facs="tcp:29799:16"/>
+                  <hi>Myſterium magnae anxietatis.</hi> Saint <hi>Lewis Bertrandus,</hi> having often and ſeriouſly <hi>Meditated</hi> on that ſaying of the Wiſeman,
+<note place="margin">
+                     <hi>Eccleſ.</hi> 19.1.</note> 
+                  <hi>Neſcit homo utrum amore dignus ſit an odio:</hi> No man can tell whether he deſerve <hi>Love</hi> or <hi>Hatred;</hi> could ſcarce refrain from <hi>Tears,</hi> and being asked the <hi>Reaſon,</hi> anſwered, <hi>Timeo &amp; fleo, quia neſcio quid de me futurum ſit;</hi> I <hi>fear</hi> and I <hi>weep,</hi> be<g ref="char:EOLhyphen"/>cauſe I know not whether I ſhall be on the <hi>Right</hi> Hand or on the <hi>Left;</hi> whether I ſhall be for a whole <hi>Eternity</hi> among the <hi>Sheep,</hi> or among the <hi>Goats.</hi> The <hi>Royal Prophet</hi> was in the ſame perplexity;
+<note place="margin">
+                     <hi>Pſal.</hi> 76.5.</note> 
+                  <hi>Anticipa<g ref="char:EOLhyphen"/>verunt vigilias oculi mei, turbatus ſum, &amp; non ſum lo<g ref="char:EOLhyphen"/>cutus:</hi> My Eyes have been continued <hi>Strangers</hi> to all ſort of Reſt, I was <hi>troubled,</hi> and did not <hi>dare</hi> to ſpeak, for fear my good <hi>Shepherd</hi> ſhould caſt me off, and ſo I be <hi>left</hi> to my ſelf and <hi>Starve:</hi> Yet after all his apprehenſions, like unto a ſimple, obedient <hi>Lamb,</hi> he placed all his confidence in the <hi>Care</hi> of his Pious Paſtor; <hi>In manibus tuis ſortes meae.</hi>
+               </p>
+               <p>But you wretched and unfortunate <hi>Sinner,</hi> what excuſe will you <hi>plead</hi> at the latter <hi>Day,</hi> for having left the <hi>Fold,</hi> for having been <hi>diſobedient,</hi> and deaf to the Voice of your <hi>Paſtor?</hi> You cannot ſay, he did <hi>never</hi> ſpeak unto you; nor can you <hi>deny</hi> but
+<pb n="27" facs="tcp:29799:16"/>that you have <hi>heard</hi> him; this will but <hi>augment</hi> your Crime: The <hi>daily</hi> accidents you hourly do ſee, are ſo many admonitions that <hi>inſtruct</hi> you in your <hi>duty:</hi> The diſaſters that <hi>wait</hi> on Vice, and the miſerable <hi>end</hi> of Sin, ſhould <hi>teach</hi> you how to <hi>avoid</hi> it. Sup<g ref="char:EOLhyphen"/>poſe you were <hi>informed</hi> that the <hi>Way</hi> you <hi>walk</hi> in is full of Precipices; the <hi>Meat</hi> you are about to <hi>Eat,</hi> is Poyſoned, and brings a certain Death; that the <hi>Road</hi> is full of <hi>Thieves:</hi> you could not in <hi>reaſon</hi> complain, ſhould you find your ſelf <hi>ſtript</hi> of all you had, and at the <hi>point</hi> of Death, if you ſhould either go <hi>abroad,</hi> or eat after ſo <hi>friendly</hi> an admonition: All the <hi>excuſes</hi> you could bring, all the <hi>complaints</hi> you'l make, will only ſerve to <hi>aggravate</hi> your ſolly; <hi>Melius erat illi non cognoſcere viam Juſtitiae:</hi> It were better for you, you had never <hi>heard</hi> the Voice of your Shepherd, you had never been <hi>Born</hi> in his <hi>Fold;</hi> your Sin would not then have bin ſo <hi>Enor<g ref="char:EOLhyphen"/>mous.</hi> Had you not <hi>heard</hi> the Truth ſo <hi>often</hi> Preach'd, Had you not bin <hi>ſolicited</hi> by ſo many Inſpirations, Had you not ſeen ſo many <hi>ſad</hi> and <hi>fatal</hi> Examples; our Saviour <hi>could</hi> not then have reproached you: <hi>Si non eis locutus fuiſſem, peccatum non haberent:</hi>
+                  <note place="margin">
+                     <hi>Joan.</hi> 15.22.</note> If I had not <hi>ſpoke</hi> unto them; if they had not <hi>heard</hi> my Voice; if I had not made them <hi>ſenſible</hi> of their
+<pb n="28" facs="tcp:29799:17"/>
+                  <hi>Duty</hi> to God, of their <hi>Obligations</hi> to the Almighty; if I had not <hi>diſcovered</hi> unto them the Malicious <hi>Deceits</hi> of their common Enemy; the inconſtant <hi>Vanity</hi> of the World; if I had not made them <hi>ac<g ref="char:EOLhyphen"/>quainted</hi> with the rewards of Vertue, and given them a <hi>ſight</hi> of Heaven and Hell, let them have ſeen the <hi>Pains</hi> of one, and the <hi>Delights</hi> of Paradiſe: they might have <hi>pretended</hi> ſome excuſe, but now they have none.
+<note place="margin">
+                     <hi>Apoc.</hi> 3.15.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>tinam calidus eſſes vel frigidus, ſed quia tepidus es incipiam te evomere:</hi> Would to God you were either <hi>Hot</hi> or <hi>Cold,</hi> but becauſe you are but <hi>Luke-warm, Incipiam te evomere,</hi> I ſhall begin to <hi>Cast</hi> you out. To be <hi>Hot</hi> in the Scripture Phraſe, is to have a <hi>lively Faith,</hi> and a copious <hi>ſtore</hi> of good works: to be <hi>Cold,</hi> is to be <hi>poor</hi> and <hi>deſtitute</hi> of both; but that man is <hi>neither,</hi> he is only <hi>Luke-warm,</hi> who having had ſome <hi>ſparks</hi> and <hi>lights</hi> of Faith, did ſuffer them to be <hi>put out</hi> and die for want of <hi>feeding</hi> them with the conſtant <hi>practice</hi> of good Works.</p>
+               <p>A Man might <hi>object</hi> to theſe, what the Idolaters <hi>ſaid</hi> heretofore to the Antient looſe Chriſtians, <hi>
+                     <g ref="char:V">Ʋ</g>bi eſt,</hi> as <hi>Salvian</hi> relates, <hi>lex Catholica quam credunt? <g ref="char:V">Ʋ</g>bi Pie<g ref="char:EOLhyphen"/>tatis &amp; Charitatis, praecepta quae, diſcunt?</hi> Where be thoſe
+<pb n="29" facs="tcp:29799:17"/>
+                  <hi>Catholick Verities,</hi> that <hi>Faith</hi> and <hi>Law</hi> which they profeſs? Where be thoſe <hi>Precepts</hi> of Piety and Cha<g ref="char:EOLhyphen"/>ſtity which they are <hi>commanded</hi> to obſerve? They pretend they <hi>Believe</hi> the Goſpel, which <hi>preſcribes</hi> Continence to its <hi>hearers,</hi> and they live <hi>quite</hi> con<g ref="char:EOLhyphen"/>trary; they would be <hi>thought</hi> to Imitate <hi>Jeſus Chriſt,</hi> who <hi>exhorts</hi> them to <hi>give</hi> to the Poor, and they <hi>ſteal</hi> from their Neighbour: They hear the <hi>Voice</hi> of their Shepherd, but never <hi>obſerve</hi> it; <hi>In nobis Chriſtus patitur opprobrium:</hi> Our diſſolute life is a <hi>diſgrace</hi> to <hi>Jeſus,</hi> and that <hi>Religion</hi> of ours which is <hi>founded</hi> in his <hi>Blood,</hi> is not only made <hi>deſpicable,</hi> but is Prophaned by our <hi>looſe</hi> comportment.</p>
+               <p>I would have all <hi>ſcandalous</hi> ſinful <hi>Catholicks,</hi> once before they <hi>Dye,</hi> make one ſerious <hi>reflection</hi> on thoſe Words of Holy <hi>Job; Semel loquitur deus &amp; ſecundo,</hi>
+                  <note place="margin">
+                     <hi>Job cap.</hi> 33.14.</note> 
+                  <hi>id ipſum non repetit:</hi> God ſpeaks Once, but <hi>ſeldom</hi> repeats the ſame thing over a Second time: as, who ſhould <hi>ſay,</hi> be attentive to the <hi>Word</hi> of <hi>God,</hi> receive his Inſpirations <hi>Simply;</hi> Submiſſively and Punctually <hi>Obey</hi> whatſoever they ſhall ſuggeſt unto you; leaſt, if once <hi>neglected, Secundo idipſum non repetat,</hi> you may never have them a Second time.</p>
+               <pb n="30" facs="tcp:29799:18"/>
+               <p> 
+                  <hi>And You</hi> Soveraign <hi>Paſtor of our</hi> Souls, <hi>Paſtor of all the</hi> World, <hi>who art that good</hi> Shepherd,
+<note place="margin">
+                     <hi>Joan.</hi> 10.11.</note> 
+                  <hi>that laid down Your</hi> Life <hi>for Your Flocks ſecurity;</hi> Bonus Paſtor animam dat pro ovibus ſuis. <hi>It was thro' Your</hi> Death <hi>we have been</hi> freed <hi>from the</hi> Jaws <hi>of the Infernal Woolf, and now do</hi> Feed <hi>in Safety;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 100.3.</note> Nos autem populus ejus &amp; oves paſ<g ref="char:EOLhyphen"/>cuae ejus: <hi>Own us as</hi> Yours, <hi>and make us always</hi> Hear <hi>Your Voice: Let us be ſimple as</hi> Lambs, <hi>obedient as</hi> Sheep, <hi>and when</hi> Night <hi>ſhall come, Beloved</hi> Paſtor <hi>of our</hi> Souls, <hi>when you ſhall ſeparate your</hi> Sheep <hi>from amongſt the</hi> Goats, <hi>place us on Your</hi> Right <hi>Hand;</hi> Inter oves locum praeſta, &amp; ab hoedis nos ſequeſtra.</p>
+               <pb n="31" facs="tcp:29799:18"/>
+               <p> 
+                  <hi>In fine,</hi> Dear Jeſus, <hi>bring it ſo about, that having had You here for our</hi> Lord, <hi>and for our</hi> Paſtor, <hi>we may have You a whole</hi> Eternity <hi>in Heaven for our</hi> Reward <hi>and for our</hi> Crown.</p>
+               <p>Which God of His Infinite Bounty grant Your Moſt <hi>Sa<g ref="char:EOLhyphen"/>cred Majeſty,</hi> and all this Pious Aſſembly. In the Name of the <hi>Father,</hi> and of the <hi>Son,</hi> and of the <hi>Holy Ghoſt.</hi> Amen.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
